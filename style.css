@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: lightgray;
+}
+#background{
+    margin: 0 auto;
+    /* text-align: center; */
+    width: 65%;
+    background-color: white;
+}
+h1{
+    text-align: center;
+    font-size:  4em;
+    text-shadow: 10px;
+}
+
+h2{
+    text-align: center;
+    padding: 0.5em;
+}
+.h2{
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+div hr{
+        margin: 0 auto;
+		border: 0;
+		height: 0;
+		border-top: 2px solid rgba(0, 0, 0, 0.2);
+		border-bottom: 2px solid blue;
+
+}
+
+.article{
+    background-color: #7cccfa;
+    margin: 0 auto;
+    /* text-align: center; */
+    width: 90%;
+    text-indent: 2em;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:solid 5px rgb(192, 32, 32);
+    box-shadow:4px 4px 5px 3px #999;
+    border-radius: 10px 10px;
+}
+li{
+    text-align: left;
+    text-indent: 2em;   
+}
+.strong{
+    list-style-type: none;  
+}
+
+hr{
+    color: black;
+    /* border-bottom: solid  5px black; */
+}
+.picture{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 1em;
+}
+img{
+    width: 80%;
+}
+
+footer{
+    padding-top: 10px;
+    /* height: 100px; */
+    text-align: center;
+    background-color: rgb(77, 76, 76);
+    border-radius: 10px 10px 0px 0px;
+}
+table, th, td {
+    margin: 0 auto;
+    border: 1px solid black;
+    border-collapse:collapse;
+    padding:5px;
+    }
+ #weibo{
+        width: 3%;
+        
+}
+#qq{
+    width: 2.5%;
+}
